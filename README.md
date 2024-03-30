@@ -1,2 +1,2 @@
 # SocialMediaPlatformHibernate
-A Java project implementing a social media platform using Hibernate for database management. The project includes functionalities such as user authentication, posting, liking, commenting, and friend management.
+A Java project implementing a social media platform using Hibernate for database management. The project includes functionalities such as creating a account, user authentication, updation of details, posting, liking, commenting, friend management, and deletion of account.
